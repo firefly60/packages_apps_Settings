@@ -85,4 +85,11 @@
     <!-- Global Actions -->
     <string name="global_actions_advanced_reboot_title">Enable advanced restart</string>
     <string name="global_actions_advanced_reboot_summary">Show additional reboot options in power menu</string>
+    
+    <!-- Misc Settings -->
+    <string name="misc_settings_title">Misc</string>
+    
+    <!-- Google Play Integrity Spoof -->
+    <string name="pi_spoof_title">Google Play Integrity spoof</string>
+    <string name="pi_spoof_summary">Spoof your device as different model for Google Play Integrity</string>
 </resources>
